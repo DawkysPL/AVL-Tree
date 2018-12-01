@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520884711 source:d:\c++codeblocks kody\avl_projekt\main.cpp
+	<Wezel.h>
+
+1521191408 d:\c++codeblocks kody\avl_projekt\include\wezel.h
+	<iostream>
+	<windows.h>
+	<algorithm>
+
+1521191805 source:d:\c++codeblocks kody\avl_projekt\src\wezel.cpp
+	"Wezel.h"
+
